@@ -1,1 +1,7 @@
+# Project Overview
+
 I created a web server on Amazon Web Services (AWS) to host a company's website and application, ensuring a robust and scalable environment. I launched an EC2 instance, installed Apache/Nginx, and deployed the web content. To maintain server security and performance, I developed scripts for automated updates and used monitoring tools for alerts. Managing dependencies was streamlined with package managers and version control. I utilized Docker for containerization, creating Dockerfiles and using Docker Compose for multi-container applications, and integrated these with CI/CD pipelines for seamless deployment. This setup guarantees reliability, security, and ease of management.
+
+# Aperçu du projet
+
+J'ai créé un serveur web sur Amazon Web Services (AWS) pour héberger le site web et l'application d'une entreprise, en garantissant un environnement robuste et évolutif. J'ai lancé une instance EC2, installé Apache/Nginx et déployé le contenu web. Pour maintenir la sécurité et les performances du serveur, j'ai développé des scripts pour les mises à jour automatisées et j'ai utilisé des outils de surveillance pour les alertes. La gestion des dépendances a été simplifiée grâce aux gestionnaires de paquets et au contrôle de version. J'ai utilisé Docker pour la conteneurisation, en créant des Dockerfiles et en utilisant Docker Compose pour les applications multi-conteneurs, et je les ai intégrés aux pipelines CI/CD pour un déploiement transparent. Cette configuration garantit la fiabilité, la sécurité et la facilité de gestion.
