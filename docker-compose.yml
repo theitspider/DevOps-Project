@@ -4,6 +4,6 @@ services:
           build: .
           image: app:1.0.0
           volumes:
-          - ./src://Users/mostafaguellil/Documents/GitHub/Project
+          - ./src://Users/mostafaguellil/Documents/GitHub/DevOps-Project
           ports:
           - "8080:80"
